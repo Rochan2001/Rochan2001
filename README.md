@@ -11,7 +11,6 @@
 
 ---
 
----
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
@@ -44,7 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochan2001&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
----
 
 [instagram]: https://www.instagram.com/rochansingh/
 [linkedin]: https://www.linkedin.com/in/rochan-singh-795a251a2/
