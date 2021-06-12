@@ -12,9 +12,6 @@
 ---
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
@@ -53,11 +50,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochan2001&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
 ---
 
 [instagram]: https://www.instagram.com/rochansingh/
