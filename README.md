@@ -54,6 +54,3 @@
 
 [instagram]: https://www.instagram.com/rochansingh/
 [linkedin]: https://www.linkedin.com/in/rochan-singh-795a251a2/
-
-
-----
