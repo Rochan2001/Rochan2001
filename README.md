@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science undergrad  
 
-- 👨‍💻 I’m currently learning more about Web Development and exploring different domains.
+- 👨‍💻 I’m currently learning more about Web Development and exploring other technologies.
 - 💪🏼 current Goals: Create projects which solve my problems and real world problems.
 - ⚡ Fun fact: I love to beatbox and read books.
 
