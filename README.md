@@ -1,11 +1,11 @@
-# Hi there, I'm Rochan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Rochan <img width="20px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science undergrad  
 
-- 👨‍💻 I’m currently learning more about Web Development and exploring other technologies.
-- 💪🏼 current Goals: Create projects which solve my problems and real world problems.
+- 👨‍💻 I’m currently learning more about Web Development and exploring different technologies.
+- 💪🏼 current Goals: build projects which solve my problems and also contributing to open source projects.
 - ⚡ Fun fact: I love to beatbox and read books.
 
 ---
