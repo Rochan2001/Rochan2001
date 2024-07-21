@@ -4,9 +4,9 @@
 
 ## I'm a Computer Science undergrad  
 
-- 👨‍💻 I’m currently learning more about Web Development and exploring different technologies.
-- 💪🏼 current Goals: build projects which solve my problems and also contributing to open source projects.
-- ⚡ Fun fact: I love to beatbox and read books.
+- 👨‍💻 I’m learning more about Web Development and exploring different technologies.
+- 💪🏼 Current goals: build interesting projects and contribute to open source projects.
+- ⚡ Fun fact: I geek out on psychology, philosophy, and music.
 
 ---
 
